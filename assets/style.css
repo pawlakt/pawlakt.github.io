@@ -1,0 +1,58 @@
+﻿:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  color: #111;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 760px;
+  margin: 48px auto;
+  padding: 0 20px;
+}
+
+h1, h2 {
+  font-weight: 500;
+  margin: 0 0 0.7rem;
+}
+
+h1 a {
+  color: #111;
+  text-decoration: none;
+}
+
+a {
+  color: #0645ad;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  margin-bottom: 1.2rem;
+}
+
+.post-date {
+  color: #444;
+  font-size: 0.95rem;
+  display: inline-block;
+  min-width: 7.2rem;
+  margin-right: 0.4rem;
+}
+
+.post-excerpt {
+  margin-top: 0.25rem;
+  color: #222;
+}

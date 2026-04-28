@@ -1,0 +1,25 @@
+﻿title: pawlakt.github.io
+description: A coding diary from the AI era.
+url: https://pawlakt.github.io
+timezone: Europe/Warsaw
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+comments:
+  provider: none
+  giscus:
+    repo: ""
+    repo_id: ""
+    category: ""
+    category_id: ""
+    mapping: pathname
+    strict: 0
+    reactions_enabled: 1
+    emit_metadata: 0
+    input_position: top
+    theme: light
+    lang: en
+  utterances:
+    repo: ""
+    issue_term: pathname
+    theme: github-light

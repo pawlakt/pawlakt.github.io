@@ -1,2 +1,1 @@
-# pawlakt.github.io
-A coding diary from the AI era.
+﻿A coding diary from the AI era.
