@@ -88,6 +88,7 @@ What matters is that I finally managed to build and finish a side project end—
 Instead of jumping to a new idea every second day, I finally spent enough time with one project to properly explore it, learn a ton of new things, and — most importantly — have a lot of fun doing it.
 
 You can check recent state of the project on [GitHub](https://github.com/pawlakt/BacklogAssistant)
+
 NOTE: This repository is shared as a work-in-progress reference implementation, not as a production-ready product. It is intended to show the shape of an Azure DevOps Work Item AI Assistant and give others something they can fork, inspect, and adapt.
 
 Before using it in a real organization, you should review and harden it for your own environment. In particular, pay attention to authentication and authorization, Azure DevOps token validation, CORS restrictions, secret management, logging of prompts/work item data, extension identity/rebranding, deployment permissions, and any organization-specific compliance requirements.
