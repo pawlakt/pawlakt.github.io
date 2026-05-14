@@ -34,6 +34,8 @@ One feature I personally find extremely useful is automated estimation. The agen
 
 ![Backlog Assistant flow](/assets/backlog-assistant-flow.png)
 
+*Fig. 1. Backlog Assistant conversation-to-backlog workflow*
+
 ## Who Is It Actually For?
 
 I originally started building this app with only one user in mind — myself. The goal was simple: organize my side projects and keep all my crazy ideas in one place instead of scattering them across random notes, chats, and unfinished TODO lists.
